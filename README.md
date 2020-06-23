@@ -1,9 +1,4 @@
-# silk-web
-
-## Project setup
-```
-npm install
-```
+## 基于[列表工具](http://139.186.75.156:9004/listTool.html)的Demo前端，服务端代码对应[后台代码](https://github.com/leslie1015/silk-server)
 
 ### Compiles and hot-reloads for development
 ```
@@ -15,20 +10,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
